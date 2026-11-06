@@ -1,0 +1,6 @@
+*{box-sizing:border-box}body{margin:0;font-family:Arial,Helvetica,sans-serif;color:#1d2433;background:#fff;line-height:1.55}
+header,footer{background:#123a5c;color:#fff}header .in,footer .in,main{max-width:860px;margin:0 auto;padding:18px 20px}
+header a,footer a{color:#fff;text-decoration:none;margin-right:16px}header .brand{font-weight:700;font-size:22px;margin-right:28px}
+main h1{font-size:28px;margin:18px 0 8px}main h2{font-size:19px;margin:26px 0 6px}main a{color:#0b6aa8}
+.hero{background:#f2f7fb;border-radius:10px;padding:24px;margin:16px 0}.small{font-size:13px;color:#56607a}
+footer{margin-top:40px;font-size:14px}
